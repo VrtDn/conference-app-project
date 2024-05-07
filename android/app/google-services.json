@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "594548436567",
+    "firebase_url": "https://conference-app-e8726-default-rtdb.firebaseio.com",
+    "project_id": "conference-app-e8726",
+    "storage_bucket": "conference-app-e8726.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594548436567:android:b6079b6420b37eda89fd12",
+        "android_client_info": {
+          "package_name": "com.example.conference_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSlQDFJ1vqeBH551vjwn3DLDhrP_GSs_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
